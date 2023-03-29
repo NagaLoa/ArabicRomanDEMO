@@ -9,7 +9,7 @@ public class Main {
 
         //Выражение полученное пользователем
         Scanner scn = new Scanner(System.in);
-        System.out.println("Vvod: ");
+        System.out.println("Введите число от 1 до 10, в Римской или Арабской системе счисления: ");
         String exp = scn.nextLine();
 
         //Разделение выражения на 2 числа
